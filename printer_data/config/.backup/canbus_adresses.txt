@@ -1,0 +1,4 @@
+5b17c415db91 manta
+70fc4c1df9d5 ebb
+
+ python3 ~/katapult/scripts/flash_can.py -i can0 -f ~/klipper/out/klipper.bin -u 70fc4c1df9d5
